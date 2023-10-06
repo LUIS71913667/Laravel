@@ -16,7 +16,19 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/', function () {
-    return view('proyect1');
+Route::get('/proyect1', function () {
+    return view('lista_blade.proyect1');
+});
+Route::get('/proyect2', function () {
+    return view('lista_blade.proyect2');
+});
+Route::get('/proyect3', function () {
+    return view('lista_blade.proyect3');
+});
+Route::get('/proyect4', function () {
+    return view('lista_blade.proyect4');
+});
+Route::get('/proyect5', function () {
+    return view('lista_blade.proyect5');
 });
 

@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>apruebeme p profe </h1>
+    <button><a href="/">INICIO</a></button>
 </body>
 </html>

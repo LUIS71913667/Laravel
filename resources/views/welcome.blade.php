@@ -7,6 +7,11 @@
 
     <title>Laravel</title>
 </head>
+<style>
+    body{
+        background-color: aquamarine;
+    }
+</style>
 <body>
     <h2>PROFE DEME PERMISO P XF</h2>
     <li class="nav-item">

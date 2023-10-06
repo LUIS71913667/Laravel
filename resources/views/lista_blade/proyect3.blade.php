@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>profe un toq p</h1>
+    <button><a href="/">INICIO</a></button>
     
 </body>
 </html>

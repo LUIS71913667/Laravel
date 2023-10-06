@@ -7,5 +7,6 @@
 </head>
 <body>
     <p>profe no se da insertar imegenes</p>
+    <button><a href="/">INICIO</a></button>
 </body>
 </html>

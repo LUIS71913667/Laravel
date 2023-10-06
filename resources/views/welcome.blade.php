@@ -8,6 +8,7 @@
     <title>Laravel</title>
 </head>
 <body>
+    <h2>PROFE DEME PERMISO P XF</h2>
     <li class="nav-item">
         <a class="nav-link active" aria-current="page" href="proyect1">OPCION 1</a>
     </li>
@@ -23,5 +24,6 @@
     <li class="nav-item">
         <a class="nav-link active" aria-current="page" href="proyect5">OPCION 5</a>
     </li>
+    
 </body>
 </html>
